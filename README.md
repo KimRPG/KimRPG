@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Spring Boot Badge](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)](https://github.com/Club-PARD/WebETA_server.git)
-[![React Badge](https://img.shields.io/badge/React%20App-61DAFB?style=flat&logo=react&logoColor=white)](https://github.com/Club-PARD/Hi5_DotZip.git)
-[![Firebase Badge](https://img.shields.io/badge/Firebase%20App-FFCA28?style=flat&logo=firebase&logoColor=white)](https://github.com/Club-PARD/Hi5_DotZip.git)
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimRPG&show_icons=true&theme=default)
